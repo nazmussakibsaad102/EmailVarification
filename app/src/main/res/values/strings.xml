@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParseEmailVarification</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">dQEAjaPR8PFXraC7qFTs4ANSkEj1sw7EiWZiBSaJ</string>
+    <string name="back4app_client_key">sibXGqiuTnde7mreX9TmJnCGSPUTvqhcfVYGf4Du</string>
+
+</resources>
